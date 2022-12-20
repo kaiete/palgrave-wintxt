@@ -7,7 +7,6 @@ int main()
     cout << "< Hello!\n(press any key)\n";
     int getchnum;
     getchnum = _getch();
-    cout << getchnum;
     string textin;
     while (1) {
         cout << "> ";
